@@ -1,1 +1,29 @@
-@import 'normalize.css';
+body {
+  font-family: sans-serif;
+  font-size: 12pt;
+  line-height: 1.5625;
+  text-rendering: optimizeLegibility;
+}
+
+body > header,
+body > nav,
+body > main,
+body > footer {
+  margin: 3rem auto;
+  max-width: 30rem;
+  text-align: left;
+}
+
+a[href] {
+  color: #3344dd;
+}
+
+a[href]:hover,
+a[href]:focus,
+a[href]:active {
+  color: #bb1122;
+}
+
+a[href]:visited {
+  color: #884488;
+}
