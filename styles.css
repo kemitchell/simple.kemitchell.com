@@ -36,3 +36,28 @@ h1, h2, h3, h4, h5, h6 {
 input, select, button {
   padding: 0.5rem;
 }
+
+.success, .danger, .warning, .info {
+  border-radius: 0.25rem;
+  padding: 1rem;
+}
+
+.success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.danger {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.warning {
+  background-color: #ffc107;
+  color: #343a40;
+}
+
+.info {
+  background-color: #dc3545;
+  color: white;
+}
