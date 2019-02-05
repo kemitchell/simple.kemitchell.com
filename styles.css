@@ -27,6 +27,7 @@ body > main,
 body > footer {
   margin: 3rem auto;
   max-width: 30rem;
+  padding: 0 1rem;
   text-align: left;
 }
 
