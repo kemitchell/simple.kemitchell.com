@@ -19,6 +19,7 @@ html {
   font-family: sans-serif;
   line-height: 1.5625;
   text-rendering: optimizeLegibility;
+  word-break: break-word;
 }
 
 body > header,
