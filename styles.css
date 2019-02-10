@@ -66,20 +66,32 @@ input, select, button {
 
 .success {
   background-color: #28a745;
+}
+
+.success, .success a[href]:link {
   color: #fff;
 }
 
 .danger {
   background-color: #dc3545;
+}
+
+.danger, .danger a[href]:link {
   color: #fff;
 }
 
 .warning {
   background-color: #ffc107;
+}
+
+.warning, .warning a[href]:link {
   color: #343a40;
 }
 
 .info {
   background-color: #17a2b8;
+}
+
+.info, .info a[href]:link {
   color: white;
 }

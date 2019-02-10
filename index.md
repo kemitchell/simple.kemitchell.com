@@ -334,3 +334,14 @@ Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
 Use the `printf()` function.
+
+## Custom Styles
+
+
+<aside class="success">success <a href="/">link</a></aside>
+
+<aside class="warning">warning <a href="/">link</a></aside>
+
+<aside class="info">info <a href="/">link</a></aside>
+
+<aside class="danger">danger <a href="/">link</a></aside>
