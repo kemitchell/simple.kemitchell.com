@@ -36,6 +36,11 @@ body > footer {
   text-align: left;
 }
 
+body > footer {
+  border-top: 1px solid black;
+  margin-top: 5rem;
+}
+
 a[href] {
   color: #3344dd;
 }
