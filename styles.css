@@ -95,3 +95,7 @@ input, select, button {
 .info, .info a[href]:link {
   color: white;
 }
+
+aside {
+  margin: 1rem 0;
+}
