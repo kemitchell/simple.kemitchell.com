@@ -104,3 +104,11 @@ input, select, button {
 aside {
   margin: 1rem 0;
 }
+
+dt {
+  font-style: italic;
+}
+
+dd {
+  margin: 1rem;
+}
