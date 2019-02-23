@@ -120,3 +120,15 @@ img {
 p {
   margin: 0 0 1em 0;
 }
+
+:target {
+  /*background-color: rgb(245, 255, 150);*/
+  position: relative;
+}
+
+:target:before {
+  content: '→';
+  font-weight: bold;
+  left: -2rem;
+  position: absolute;
+}
