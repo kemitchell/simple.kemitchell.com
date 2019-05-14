@@ -148,3 +148,8 @@ tbody tr:nth-child(even) {
 th, th {
   text-align: left;
 }
+
+.conspicuous {
+  font-style: italic;
+  font-weight: bold;
+}
