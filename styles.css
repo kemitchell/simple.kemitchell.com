@@ -117,7 +117,7 @@ img {
   max-width: 100%;
 }
 
-p {
+p, address {
   margin: 0 0 1em 0;
 }
 
