@@ -117,8 +117,16 @@ img {
   max-width: 100%;
 }
 
-p, address {
+p, address, li {
   margin: 0 0 1em 0;
+}
+
+ul, ol {
+  margin-top: 1em;
+}
+
+li > p {
+  margin-bottom: 0;
 }
 
 :target {
