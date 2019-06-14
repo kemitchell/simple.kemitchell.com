@@ -153,3 +153,7 @@ th, th {
   font-style: italic;
   font-weight: bold;
 }
+
+table, pre {
+  overflow-x: scroll;
+}
