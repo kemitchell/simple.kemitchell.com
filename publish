@@ -1,0 +1,2 @@
+#!/bin/sh
+scp *.css simple.kemitchell.com:/var/www/simple.kemitchell.com/
