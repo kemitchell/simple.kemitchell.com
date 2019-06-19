@@ -1,2 +1,2 @@
 #!/bin/sh
-scp *.css simple.kemitchell.com:/var/www/simple.kemitchell.com/
+scp $(git ls-files | grep -Fv publish) simple.kemitchell.com:/var/www/simple.kemitchell.com/
