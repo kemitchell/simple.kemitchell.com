@@ -75,7 +75,7 @@ input, select, button {
   background-color: #28a745;
 }
 
-.success, .success a[href]:link {
+.success, .success a[href] {
   color: #fff;
 }
 
@@ -83,7 +83,7 @@ input, select, button {
   background-color: #dc3545;
 }
 
-.danger, .danger a[href]:link {
+.danger, .danger a[href] {
   color: #fff;
 }
 
@@ -91,7 +91,7 @@ input, select, button {
   background-color: #ffc107;
 }
 
-.warning, .warning a[href]:link {
+.warning, .warning a[href] {
   color: #343a40;
 }
 
@@ -99,7 +99,7 @@ input, select, button {
   background-color: #17a2b8;
 }
 
-.info, .info a[href]:link {
+.info, .info a[href] {
   color: white;
 }
 
